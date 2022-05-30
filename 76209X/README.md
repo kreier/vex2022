@@ -1,6 +1,21 @@
 # Team 76209X
 
-Until May the team liked to program in block code. But on May 24th they lost the `goto` function programmed and saved in block code. And had to rewrite the program. The file was saved as
+The broken `goto` function in blocks code is described further down. Here is the solution.
+
+## Fix for broken goto function
+
+This function actually works and prints the stage onto the brain display:
+
+![da funny fix](da_funny_fix.png)
+
+The code in python reads:
+
+``` py
+
+```
+
+
+Until May the team liked to program in block code. But on May 24th they lost the `goto` function programmed and saved in block code. And had to rewrite the program. The file was saved as `_da funny.v5blocks` but when opening the xml file it did not contain the desired data.
 
 ## Blocks code
 
